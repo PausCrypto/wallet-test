@@ -1,0 +1,24 @@
+{
+  "name": "wallet-test",
+  "version": "1.0.0",
+  "description": "Test-suite for wallet",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PausCrypto/wallet-test.git"
+  },
+  "author": "PausCrypto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PausCrypto/wallet-test/issues"
+  },
+  "homepage": "https://github.com/PausCrypto/wallet-test#readme",
+  "dependencies": {
+    "obscure-wallet-backend": "^1.0.6",
+    "turtlecoin-rpc": "^0.12.4",
+    "uws": "^100.0.1"
+  }
+}
